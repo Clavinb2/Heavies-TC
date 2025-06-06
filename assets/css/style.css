@@ -780,7 +780,7 @@ html, body {
 /* HERO
 ================================================== */
 .hero { 
-    background: url("../img/Heavies Gradient background.jpg") no-repeat center / cover; 
+    background: url("../img/Heaving TC speedwork 02-12-2025-22.jpg") no-repeat center / cover; 
     height: 100%;
     width: 100%;
     display: table;
@@ -831,7 +831,7 @@ html, body {
 
 .hero-text .btn:hover {
     background-color: #26272d;
-    color: #fff;
+    color: #000000;
 }
 
 .hero .breadcrumb {
